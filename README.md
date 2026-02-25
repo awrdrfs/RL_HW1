@@ -1,5 +1,7 @@
 # Brad Pan's Personal Portfolio
 
+![Brad Pan's Portfolio Preview](readMeImage.png)
+
 A modern, high-performance, single-page personal website designed for an AI/ML enthusiast. This portfolio features a premium dark-mode aesthetic with glassmorphic elements and smooth, scroll-triggered animations.
 
 ## 🚀 Features
@@ -36,3 +38,5 @@ open index.html
 ## 🎨 Design Philosophy
 
 The design is built on a "Glass & Glow" foundation. It uses high-contrast typography against a deep indigo-black background, paired with radial glows and blurred surfaces to highlight content without clutter.
+
+哈囉，這句是本人寫的  
